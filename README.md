@@ -1,5 +1,4 @@
 # In-and-Out-Laundry
-# In & Out Laundry
 
 ## Project Overview
 
